@@ -1,0 +1,3 @@
+module TGS_PEMJAR_1_223400020
+
+go 1.25.1
